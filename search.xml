@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hexo简单安装并使用教程</title>
+      <link href="/2024/09/15/hello-world/"/>
+      <url>/2024/09/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><h2 id="安装Notejs"><a href="#安装Notejs" class="headerlink" title="安装Notejs"></a>安装Notejs</h2><h2 id="进入命令行控制台，替换npm国内镜像源"><a href="#进入命令行控制台，替换npm国内镜像源" class="headerlink" title="进入命令行控制台，替换npm国内镜像源"></a>进入命令行控制台，替换npm国内镜像源</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npmmirror.com/</span><br></pre></td></tr></table></figure><h2 id="查看镜像源是否替换成功"><a href="#查看镜像源是否替换成功" class="headerlink" title="查看镜像源是否替换成功"></a>查看镜像源是否替换成功</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config get registry</span><br></pre></td></tr></table></figure><h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h2 id="确保包完整"><a href="#确保包完整" class="headerlink" title="确保包完整"></a>确保包完整</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><h2 id="新建空白文件夹命名Hexo-Blog并在此路径进入控制台然后初始化"><a href="#新建空白文件夹命名Hexo-Blog并在此路径进入控制台然后初始化" class="headerlink" title="新建空白文件夹命名Hexo_Blog并在此路径进入控制台然后初始化"></a>新建空白文件夹命名Hexo_Blog并在此路径进入控制台然后初始化</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><h2 id="确保包完整-1"><a href="#确保包完整-1" class="headerlink" title="确保包完整"></a>确保包完整</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><h2 id="控制台输入"><a href="#控制台输入" class="headerlink" title="控制台输入"></a>控制台输入</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure><h2 id="控制台输入-1"><a href="#控制台输入-1" class="headerlink" title="控制台输入"></a>控制台输入</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><h2 id="hexo-s-自动监视文件变动不对-config-yml生效"><a href="#hexo-s-自动监视文件变动不对-config-yml生效" class="headerlink" title="hexo s 自动监视文件变动不对_config.yml生效"></a>hexo s 自动监视文件变动不对_config.yml生效</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
